@@ -31,9 +31,9 @@ for **Studio Noir - OmniVoice Playground**.
 
 ## Output Files
 
-- `portrait-voice-studio-watercolor-bg.png` - vertical README visual with watercolor voice studio mood
-- `square-voice-clone-watercolor-bg.png` - square README visual about voice cloning and speech bubbles
-- `banner-audio-orchestration-watercolor-bg.png` - landscape README visual with DAW/audio-video orchestration theme
+- `portrait-voice-studio-watercolor-bg.png` - vertical README visual describing the AI voice synthesis studio
+- `square-voice-clone-watercolor-bg.png` - square README visual describing voice cloning and prompt-guided control
+- `banner-audio-orchestration-watercolor-bg.png` - landscape README visual describing the audio-video orchestration sandbox
 - `vietqr-donate-card.png` - standalone VietQR donate card
 
 ## Generation Notes
@@ -46,12 +46,12 @@ for **Studio Noir - OmniVoice Playground**.
 
 ### Portrait
 
-Watercolor and ink-wash portrait poster inspired by an AI voice synthesis studio: soft waveforms, audio timeline lanes, floating microphone silhouette, subtle glass panels, noir lighting, copper and teal accents.
+Watercolor and ink-wash portrait illustration of an AI voice synthesis tool: condenser microphone, layered waveform lanes, DAW timeline clips, voice parameter dials, and speech-to-audio motifs.
 
 ### Square
 
-Watercolor square graphic about voice cloning and TTS experimentation: overlapping speech bubbles, spectral waveforms, audio clip blocks, circuit traces, and a subtle CUDA/GPU acceleration motif.
+Watercolor square illustration of voice cloning and prompt-guided voice control: voice profile silhouettes, speech bubbles transforming into waveform streams, reference-audio upload motifs, neural connection lines, and control panels for pitch, style, age, and emotion.
 
 ### Banner
 
-Landscape watercolor banner for an audio-video orchestration sandbox: DAW timeline, soundwave grids, floating clip blocks, API/server lines, microphone and headphones silhouettes.
+Landscape watercolor banner for an automated audio-video orchestration sandbox: wide DAW timeline, stacked audio clips, waveform grids, abstract video tracks, backend API flow lines, GPU acceleration glow, microphone, headphones, and model loading motifs.

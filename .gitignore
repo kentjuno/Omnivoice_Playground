@@ -1,0 +1,51 @@
+# ======================================================================
+# Studio Noir - OmniVoice Playground GitIgnore
+# ======================================================================
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Python & Machine Learning Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+backend/.venv/
+backend/venv/
+backend/ENV/
+backend/env/
+
+# Backend Sandbox Output Audio & Local Metadata Caches
+backend/agy_tmp/
+agy_tmp/
+*.wav
+*.mp3
+
+# Node.js & Vite Frontend Build Caches
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# Local Env Configurations
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env

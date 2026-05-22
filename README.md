@@ -125,7 +125,9 @@ frontend/public/donate-graphics/
 If this playground helps your voice synthesis experiments, you can support the
 project with the standalone VietQR donate card.
 
-- Donate QR card: `frontend/public/donate-graphics/vietqr-donate-card.png`
+![Donate QR card](frontend/public/donate-graphics/vietqr-donate-card.png)
+
+- Donate QR card file: `frontend/public/donate-graphics/vietqr-donate-card.png`
 - Technology references and asset notes: `frontend/public/donate-graphics/REFERENCES.md`
 
 The QR card is kept as a separate image so the watercolor visuals can decorate

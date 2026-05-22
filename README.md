@@ -99,6 +99,48 @@ omnivoiceplayground/
 ```
 
 ---
+
+## Donate Graphics
+
+The project includes watercolor-style donate graphics inspired by the README themes:
+OmniVoice text-to-speech, voice cloning, DAW-style timelines, waveform grids,
+CUDA acceleration, and the Studio Noir cinematic interface mood.
+
+All final assets live in:
+
+```text
+frontend/public/donate-graphics/
+```
+
+### Final Donate Assets
+
+| Format | Preview | File |
+| --- | --- | --- |
+| Portrait social poster | ![Portrait donate graphic](frontend/public/donate-graphics/portrait-voice-studio-donate.png) | `portrait-voice-studio-donate.png` |
+| Square social graphic | ![Square donate graphic](frontend/public/donate-graphics/square-voice-clone-donate.png) | `square-voice-clone-donate.png` |
+| Landscape banner | ![Banner donate graphic](frontend/public/donate-graphics/banner-audio-orchestration-donate.png) | `banner-audio-orchestration-donate.png` |
+
+### Support The Project
+
+If this playground helps your voice synthesis experiments, you can use the
+VietQR card in the donate graphics to support the project.
+
+- Donate QR card: `frontend/public/donate-graphics/vietqr-donate-card.png`
+- Quick preview sheet: `frontend/public/donate-graphics/donate-graphics-contact-sheet.png`
+- Technology references and asset notes: `frontend/public/donate-graphics/REFERENCES.md`
+
+The donate QR was composited from the provided VietQR image so the scan pattern
+stays crisp and reliable.
+
+### Technology References
+
+- **OmniVoice** by `k2-fsa` - core text-to-speech and voice cloning model used by the playground.
+- **PyTorch** by the PyTorch Foundation / Linux Foundation - tensor runtime and CUDA acceleration layer.
+- **FastAPI** by the FastAPI open-source project - Python API server for inference endpoints.
+- **React** by Meta and **Vite** by the Vite open-source project - frontend app and development build system.
+- **Tailwind CSS** by Tailwind Labs and **Lucide** by the Lucide open-source project - interface styling and icon system.
+
+---
 ---
 
 <a name="tiếng-việt"></a>

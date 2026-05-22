@@ -1,6 +1,7 @@
-# Donate Graphics References
+# Project Visuals References
 
-These watercolor donate graphics were created for **Studio Noir - OmniVoice Playground**.
+These watercolor README visuals and the standalone donate QR card were prepared
+for **Studio Noir - OmniVoice Playground**.
 
 ## Technology References
 
@@ -17,8 +18,7 @@ These watercolor donate graphics were created for **Studio Noir - OmniVoice Play
 ## Asset References
 
 - Project context: `README.md`
-- Donate QR card crop: `vietqr-donate-card.png`
-- Quick preview sheet: `donate-graphics-contact-sheet.png`
+- Standalone donate QR card: `vietqr-donate-card.png`
 
 ## README Themes Used
 
@@ -31,27 +31,27 @@ These watercolor donate graphics were created for **Studio Noir - OmniVoice Play
 
 ## Output Files
 
-- `portrait-voice-studio-donate.png` - vertical social poster with watercolor voice studio mood
-- `square-voice-clone-donate.png` - square social graphic about voice cloning and speech bubbles
-- `banner-audio-orchestration-donate.png` - landscape banner with DAW/audio-video orchestration theme
-- `donate-graphics-contact-sheet.png` - quick visual preview of the three final donate graphics
+- `portrait-voice-studio-watercolor-bg.png` - vertical README visual with watercolor voice studio mood
+- `square-voice-clone-watercolor-bg.png` - square README visual about voice cloning and speech bubbles
+- `banner-audio-orchestration-watercolor-bg.png` - landscape README visual with DAW/audio-video orchestration theme
+- `vietqr-donate-card.png` - standalone VietQR donate card
 
 ## Generation Notes
 
 - Watercolor backgrounds were generated with the built-in image generation workflow.
-- The QR/payment card was composited locally from the source image to preserve scan fidelity.
+- The QR/payment card is kept separate from the watercolor visuals to preserve scan fidelity.
 - Background prompts explicitly avoided generated text, logos, and synthetic QR codes.
 
 ## Prompt References
 
 ### Portrait
 
-Watercolor and ink-wash portrait poster inspired by an AI voice synthesis studio: soft waveforms, audio timeline lanes, floating microphone silhouette, subtle glass panels, noir lighting, copper and teal accents, with a clean blank card area for the real QR insert.
+Watercolor and ink-wash portrait poster inspired by an AI voice synthesis studio: soft waveforms, audio timeline lanes, floating microphone silhouette, subtle glass panels, noir lighting, copper and teal accents.
 
 ### Square
 
-Watercolor square graphic about voice cloning and TTS experimentation: overlapping speech bubbles, spectral waveforms, audio clip blocks, circuit traces, and a subtle CUDA/GPU acceleration motif, with a bright blank card area for the real QR insert.
+Watercolor square graphic about voice cloning and TTS experimentation: overlapping speech bubbles, spectral waveforms, audio clip blocks, circuit traces, and a subtle CUDA/GPU acceleration motif.
 
 ### Banner
 
-Landscape watercolor banner for an audio-video orchestration sandbox: DAW timeline, soundwave grids, floating clip blocks, API/server lines, microphone and headphones silhouettes, with a lower-right card area for the real QR insert.
+Landscape watercolor banner for an audio-video orchestration sandbox: DAW timeline, soundwave grids, floating clip blocks, API/server lines, microphone and headphones silhouettes.

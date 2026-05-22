@@ -100,37 +100,36 @@ omnivoiceplayground/
 
 ---
 
-## Donate Graphics
+## Project Visuals And Support
 
-The project includes watercolor-style donate graphics inspired by the README themes:
+The project includes watercolor-style graphics inspired by the README themes:
 OmniVoice text-to-speech, voice cloning, DAW-style timelines, waveform grids,
 CUDA acceleration, and the Studio Noir cinematic interface mood.
 
-All final assets live in:
+All visual assets live in:
 
 ```text
 frontend/public/donate-graphics/
 ```
 
-### Final Donate Assets
+### Watercolor README Visuals
 
 | Format | Preview | File |
 | --- | --- | --- |
-| Portrait social poster | ![Portrait donate graphic](frontend/public/donate-graphics/portrait-voice-studio-donate.png) | `portrait-voice-studio-donate.png` |
-| Square social graphic | ![Square donate graphic](frontend/public/donate-graphics/square-voice-clone-donate.png) | `square-voice-clone-donate.png` |
-| Landscape banner | ![Banner donate graphic](frontend/public/donate-graphics/banner-audio-orchestration-donate.png) | `banner-audio-orchestration-donate.png` |
+| Portrait voice studio | ![Portrait watercolor voice studio](frontend/public/donate-graphics/portrait-voice-studio-watercolor-bg.png) | `portrait-voice-studio-watercolor-bg.png` |
+| Square voice cloning | ![Square watercolor voice cloning](frontend/public/donate-graphics/square-voice-clone-watercolor-bg.png) | `square-voice-clone-watercolor-bg.png` |
+| Landscape audio orchestration | ![Banner watercolor audio orchestration](frontend/public/donate-graphics/banner-audio-orchestration-watercolor-bg.png) | `banner-audio-orchestration-watercolor-bg.png` |
 
 ### Support The Project
 
-If this playground helps your voice synthesis experiments, you can use the
-VietQR card in the donate graphics to support the project.
+If this playground helps your voice synthesis experiments, you can support the
+project with the standalone VietQR donate card.
 
 - Donate QR card: `frontend/public/donate-graphics/vietqr-donate-card.png`
-- Quick preview sheet: `frontend/public/donate-graphics/donate-graphics-contact-sheet.png`
 - Technology references and asset notes: `frontend/public/donate-graphics/REFERENCES.md`
 
-The donate QR was composited from the provided VietQR image so the scan pattern
-stays crisp and reliable.
+The QR card is kept as a separate image so the watercolor visuals can decorate
+the README without turning every artwork into a donate poster.
 
 ### Technology References
 
